@@ -1,0 +1,73 @@
+/* line 3, /Users/zachnusbaum/Dropbox/ZDNE_LLC/Rails/third-party/helpy/app/assets/stylesheets/onboard.scss */
+#onboard-footer-wrapper {
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+}
+
+/* line 9, /Users/zachnusbaum/Dropbox/ZDNE_LLC/Rails/third-party/helpy/app/assets/stylesheets/onboard.scss */
+.onboard-pager {
+  background-color: #feffe9;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+/* line 15, /Users/zachnusbaum/Dropbox/ZDNE_LLC/Rails/third-party/helpy/app/assets/stylesheets/onboard.scss */
+.onboard-message {
+  margin-top: 80px;
+  margin-bottom: 40px;
+}
+
+/* line 20, /Users/zachnusbaum/Dropbox/ZDNE_LLC/Rails/third-party/helpy/app/assets/stylesheets/onboard.scss */
+.number-circle {
+  border-radius: 50%;
+  width: 36px;
+  height: 36px;
+  padding: 8px;
+  border: 1px solid #666;
+  margin-left: 10px;
+  margin-right: 10px;
+  color: #666;
+  text-align: center;
+}
+
+/* line 35, /Users/zachnusbaum/Dropbox/ZDNE_LLC/Rails/third-party/helpy/app/assets/stylesheets/onboard.scss */
+.active-step {
+  border: 2px solid #000;
+  color: #000;
+  font-weight: bold;
+}
+
+/* line 41, /Users/zachnusbaum/Dropbox/ZDNE_LLC/Rails/third-party/helpy/app/assets/stylesheets/onboard.scss */
+.filled-circle {
+  color: #fff;
+  background-color: #ff8300;
+  border: 1px solid #ff8300;
+}
+
+/* line 47, /Users/zachnusbaum/Dropbox/ZDNE_LLC/Rails/third-party/helpy/app/assets/stylesheets/onboard.scss */
+.onboard-submit-section {
+  margin-top: 50px;
+}
+
+/* line 51, /Users/zachnusbaum/Dropbox/ZDNE_LLC/Rails/third-party/helpy/app/assets/stylesheets/onboard.scss */
+.onboard-panel .checkbox {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-bottom: 1px solid #eee;
+}
+/* line 56, /Users/zachnusbaum/Dropbox/ZDNE_LLC/Rails/third-party/helpy/app/assets/stylesheets/onboard.scss */
+.onboard-panel .checkbox label {
+  padding-left: 0;
+}
+
+/* line 61, /Users/zachnusbaum/Dropbox/ZDNE_LLC/Rails/third-party/helpy/app/assets/stylesheets/onboard.scss */
+.bootstrap-switch {
+  float: right;
+  margin-left: 20px;
+}
+
+/* line 66, /Users/zachnusbaum/Dropbox/ZDNE_LLC/Rails/third-party/helpy/app/assets/stylesheets/onboard.scss */
+.full-width {
+  width: 100%;
+}
