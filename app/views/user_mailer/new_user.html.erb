@@ -13,9 +13,6 @@
   <p>
     <p><%= t('account_generated', default: 'An account has been generated for you. To sign in, please use this link:') %> <%= link_to t('devise.sessions.new.sign_in'), edit_password_url(User, host: AppSettings['settings.site_url'], reset_password_token: @token, first: true) %></p>
   </p><br/>
-  <p>
-    <strong>Powered by Helpy</strong><br/>
-    Get a Free Helpy Support System for your Site at http://helpy.io/
-  </p>
+
   </body>
 </html>
